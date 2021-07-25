@@ -1,1 +1,1 @@
-sort -k1.4 output/results.txt
+sort -k1.4r output/results.txt
