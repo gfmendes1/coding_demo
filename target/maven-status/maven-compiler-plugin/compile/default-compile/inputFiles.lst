@@ -1,0 +1,7 @@
+/Users/guilherme.mendes/personal/coding_demo/src/main/java/com/alumni/batch_processing/coding_demo/CodingDemoBatchConfiguration.java
+/Users/guilherme.mendes/personal/coding_demo/src/main/java/com/alumni/batch_processing/coding_demo/JobCompletionNotificationListener.java
+/Users/guilherme.mendes/personal/coding_demo/src/main/java/com/alumni/batch_processing/BatchProcessingApplication.java
+/Users/guilherme.mendes/personal/coding_demo/src/main/java/com/alumni/batch_processing/coding_demo/HostItemProcessor.java
+/Users/guilherme.mendes/personal/coding_demo/src/main/java/com/alumni/batch_processing/coding_demo/output/Host.java
+/Users/guilherme.mendes/personal/coding_demo/src/main/java/com/alumni/batch_processing/coding_demo/output/HostLineAggregator.java
+/Users/guilherme.mendes/personal/coding_demo/src/main/java/com/alumni/batch_processing/coding_demo/input/Line.java

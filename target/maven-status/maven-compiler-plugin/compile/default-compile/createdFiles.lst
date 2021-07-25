@@ -1,0 +1,8 @@
+com/alumni/batch_processing/coding_demo/output/Host.class
+com/alumni/batch_processing/coding_demo/CodingDemoBatchConfiguration.class
+com/alumni/batch_processing/BatchProcessingApplication.class
+com/alumni/batch_processing/coding_demo/output/HostLineAggregator.class
+com/alumni/batch_processing/coding_demo/input/Line.class
+com/alumni/batch_processing/coding_demo/CodingDemoBatchConfiguration$1.class
+com/alumni/batch_processing/coding_demo/HostItemProcessor.class
+com/alumni/batch_processing/coding_demo/JobCompletionNotificationListener.class
