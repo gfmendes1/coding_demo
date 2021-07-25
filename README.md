@@ -7,7 +7,7 @@ Go to project root directory and run:
 
 File to be processed is at <code> /input/data.txt </code>
 
-To check the results use  <code> ./check_results.sh </code>
+To check the results use  <code> ./check_results.sh </code>. This file is responsible to order the lines by average.
 
-Alternativaly, it is possible to create the jar <code> ./mvnw clean package </code>.
-Run it using <code> java -jar coding_demo-1.0-SNAPSHOT.jar </code>. Don't forget to create the <code> input/data.txt </code> file
+Alternativaly, it is possible to create the jar using <code> ./mvnw clean package </code>.
+Copy the jar file from target folder and run it using <code> java -jar coding_demo-1.0-SNAPSHOT.jar </code>. Don't forget to create the <code> input/data.txt </code> file. 
