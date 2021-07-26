@@ -1,1 +1,0 @@
-sort -k1.4r output/results.txt

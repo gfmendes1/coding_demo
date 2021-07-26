@@ -5,9 +5,9 @@ To execute:
 Go to project root directory and run: 
 <code> ./mvnw spring-boot:run </code>
 
-File to be processed is at <code> /input/data.txt </code>
+File to be processed is at <code> input/data.txt </code>
 
-To check the results use  <code> ./check_results.sh </code>. This script is responsible to order the lines by average.
+To check the results at  <code> output/results_sorted.txt </code>.
 
-Alternativaly, it is possible to create the jar using <code> ./mvnw clean package </code>.
+Alternatively, it is possible to create the jar using <code> ./mvnw clean package </code>.
 Copy the jar file from target folder and run it using <code> java -jar coding_demo-1.0-SNAPSHOT.jar </code>. Don't forget to create the <code> input/data.txt </code> file. 
